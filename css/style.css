@@ -1,13 +1,15 @@
-.debug {
-    min-height: 150px;
-}
-
+.debug {min-height: 150px;}
 
 .avatar {
     width: 10%;
     height: auto;
 }
 
-.col-4 img {
-    padding-bottom: 1.50rem;
+.col-4 img {padding-bottom: 1.50rem;}
+
+.circle {
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 10px;
+    width: 46px;
 }
