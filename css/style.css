@@ -13,3 +13,7 @@
     padding: 10px;
     width: 46px;
 }
+
+.scaled {
+    transform: scale(2);
+}
