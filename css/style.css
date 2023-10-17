@@ -5,7 +5,7 @@
     height: auto;
 }
 
-.col-4 img {padding-bottom: 1.50rem;}
+.col-4 img {margin-bottom: 1.50rem;}
 
 .circle {
     border-radius: 50%;
