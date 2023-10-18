@@ -31,6 +31,8 @@ html {
 /* MARGINE NAIN */
 .mt-main { margin-top: 60.8px;}
 
+
+/* HOVER */
 .imageBox {
     width: 100%;
     overflow: hidden;
@@ -43,3 +45,7 @@ html {
   .imageBox:hover img {
     transform: scale(1.5);
   }
+
+  /* INVERTED */
+
+  .inverted {filter: invert(1);}
