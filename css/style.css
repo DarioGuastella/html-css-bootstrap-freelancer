@@ -45,10 +45,6 @@ html {
   .imageBox:hover img {
     transform: scale(1.5);
   }
-
-  /* INVERTED */
-
-  .inverted {filter: invert(1);}
   
   .limited {
     max-width: 50%;
