@@ -1,7 +1,13 @@
-.debug {min-height: 150px;}
+html {
+    scroll-padding-top: 60.8px;
+ }
+ 
+ .debug {min-height: 150px;}
+
+ nav {min-height: 3.8rem;}
 
 .avatar {
-    width: 10%;
+    width: 9rem;
     height: auto;
 }
 
