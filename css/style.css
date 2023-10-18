@@ -11,8 +11,6 @@ html {
     height: auto;
 }
 
-.col-12 img {margin-bottom: 1.50rem;}
-
 .circle {
     border-radius: 50%;
     border: 1px solid white;
@@ -32,3 +30,16 @@ html {
 
 /* MARGINE NAIN */
 .mt-main { margin-top: 60.8px;}
+
+.imageBox {
+    width: 100%;
+    overflow: hidden;
+}
+
+.imageBox img {
+    transition: transform .5s ease-in-out;
+  }
+  
+  .imageBox:hover img {
+    transform: scale(1.5);
+  }
