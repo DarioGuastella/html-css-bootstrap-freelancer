@@ -49,3 +49,7 @@ html {
   /* INVERTED */
 
   .inverted {filter: invert(1);}
+  
+  .limited {
+    max-width: 50%;
+  }
