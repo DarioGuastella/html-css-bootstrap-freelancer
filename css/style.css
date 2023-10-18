@@ -16,8 +16,8 @@ html {
 .circle {
     border-radius: 50%;
     border: 1px solid white;
-    padding: 6px;
-    width: 38px;
+    padding: 3px;
+    width: 32px;
 }
 
 .scaled {
