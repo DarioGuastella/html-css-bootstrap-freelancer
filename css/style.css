@@ -1,6 +1,4 @@
-html {
-    scroll-padding-top: 60.8px;
- }
+html {scroll-padding-top: 60.8px;}
  
  .debug {min-height: 150px;}
 
@@ -18,9 +16,7 @@ html {
     width: 32px;
 }
 
-.scaled {
-    transform: scale(2);
-}
+.scaled {transform: scale(2);}
 
 /* COLORI DI SFONDO */
 
@@ -31,21 +27,14 @@ html {
 /* MARGINE NAIN */
 .mt-main { margin-top: 60.8px;}
 
-
 /* HOVER */
 .imageBox {
     width: 100%;
     overflow: hidden;
 }
 
-.imageBox img {
-    transition: transform .5s ease-in-out;
-  }
+.imageBox img {transition: transform .5s ease-in-out;}
   
-  .imageBox:hover img {
-    transform: scale(1.5);
-  }
+  .imageBox:hover img {transform: scale(1.5);}
   
-  .limited {
-    max-width: 50%;
-  }
+  .limited {max-width: 50%;}
