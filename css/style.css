@@ -19,7 +19,6 @@ nav {min-height: 3.8rem;}
 .scaled {transform: scale(2);}
 
 /* COLORI DI SFONDO */
-
 .bgGrey {background-color: #2c3e50; }
 .bgLightGrey {background-color: #3a546d; }
 .bgGreen {background-color: #1abc9c; }
@@ -36,5 +35,6 @@ nav {min-height: 3.8rem;}
 .imageBox img {transition: transform .5s ease-in-out;}
   
 .imageBox:hover img {transform: scale(1.5);}
-  
+
+/* RIGHT HEADER LIMITER */
 .limited {max-width: 50%;}
