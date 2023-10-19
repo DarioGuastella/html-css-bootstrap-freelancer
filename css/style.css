@@ -1,8 +1,8 @@
 html {scroll-padding-top: 60.8px;}
  
- .debug {min-height: 150px;}
+.debug {min-height: 150px;}
 
- nav {min-height: 3.8rem;}
+nav {min-height: 3.8rem;}
 
 .avatar {
     width: 9rem;
@@ -35,6 +35,6 @@ html {scroll-padding-top: 60.8px;}
 
 .imageBox img {transition: transform .5s ease-in-out;}
   
-  .imageBox:hover img {transform: scale(1.5);}
+.imageBox:hover img {transform: scale(1.5);}
   
-  .limited {max-width: 50%;}
+.limited {max-width: 50%;}
